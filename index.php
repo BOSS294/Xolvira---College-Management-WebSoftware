@@ -18,12 +18,14 @@
     <meta name="twitter:image" content="https://www.xolvira.com/assets/images/college-management.jpg">
     <title>Xolvira - College Management System</title>
 
-    <link rel="stylesheet" href="Assets/Resources/default_styling.css">
 </head>
 <body>
     <?php include "Assets/Resources/nav.php" ?>
     <?php include "Assets/Website/Contents/carousel.php" ?>
     <?php include "Assets/Website/Contents/notification-train.php" ?>
+    <?php include "Assets/Website/Contents/about-college.php" ?>
+    <?php include "Assets/Website/Contents/departments.php" ?>
+    <?php include "Assets/Website/Contents/events.php" ?>
 
 </body>
 </html>
