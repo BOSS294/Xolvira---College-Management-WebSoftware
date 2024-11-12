@@ -26,6 +26,8 @@
     <?php include "Assets/Website/Contents/about-college.php" ?>
     <?php include "Assets/Website/Contents/departments.php" ?>
     <?php include "Assets/Website/Contents/events.php" ?>
+    <?php include "Assets/Resources/footer.php" ?>
+    <?php include "Assets/Resources/chat-ai.php" ?>
 
 </body>
 </html>
